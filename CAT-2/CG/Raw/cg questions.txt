@@ -1,0 +1,10 @@
+1.Visible surface detection method(4 methods - back phase detection, depth buffer method, A buffer method, scan line method)
+2. Multimedia system architecture and it's components.(diagram)
+3. Projections- orthographic, axonometric, oblique projection & it's comparison (15 mark)
+4.i) Multimedia data interface standards
+ii)Multimedia databases
+5.i) Hypermedia messaging
+ii) Mobile messaging
+iii) Hypermedia message components
+6. Discuss the various steps involved in integrated document management and distribute multimedia systems
+7. Blender graphics case study (15mark)
