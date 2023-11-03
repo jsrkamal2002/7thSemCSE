@@ -1,0 +1,27 @@
+11. Generalize about association rule mining 
+12. Bayesian classification
+Classification by back propogation
+13. Outlier mining
+14. Web mining
+15. Text mining
+
+
+15m
+16. Current trends in data mining
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Unit 3
+11. 2
+
+Unit 4
+12. 1
+13. 5
+
+Unit 5
+14. 2
+15. 4
+
+15m
+16. 2
